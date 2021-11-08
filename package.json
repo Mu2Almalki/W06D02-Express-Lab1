@@ -1,0 +1,27 @@
+{
+  "name": "w06d02-express-lab1",
+  "version": "1.0.0",
+  "description": "* Create an application project folder called `my_first_express_app`.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mu2Almalki/W06D02-Express-Lab1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mu2Almalki/W06D02-Express-Lab1/issues"
+  },
+  "homepage": "https://github.com/Mu2Almalki/W06D02-Express-Lab1#readme"
+}
